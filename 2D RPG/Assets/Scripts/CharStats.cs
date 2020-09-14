@@ -20,7 +20,7 @@ public class CharStats : MonoBehaviour
     public int strength;
     public int defense;
     public int weaponDPS;
-    public int chestPlateArmor;
+    public int armorRating;
     public string equippedWeapon;
     public string equippedArmor;
     public Sprite charImage;
