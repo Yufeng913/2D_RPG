@@ -95,9 +95,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c29fe9b91b8fc7645b78bf2bd9f58ffc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isItem: 1
+  isItem: 0
   isWeapon: 0
-  isArmor: 0
+  isArmor: 1
   itemName: Leather Armor
   description: Leather Armor
   value: 10
@@ -108,4 +108,4 @@ MonoBehaviour:
   affectStrength: 0
   affectDefense: 1
   weaponStrength: 0
-  armorRating: 5
+  armorStrength: 5
